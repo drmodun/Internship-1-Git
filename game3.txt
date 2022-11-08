@@ -1,6 +1,6 @@
-Jan ima 1 pobjeda i 0 poraza!
-Dario ima 0 pobjeda i 1 poraza!
+Jan ima 1 pobjeda i 1 poraza!
+Dario ima 1 pobjeda i 1 poraza!
 
 x . o
-. . o
+. o x
 o . x
