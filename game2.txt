@@ -2,5 +2,5 @@ Jan ima 1 pobjeda i 1 poraza!
 Dario ima 1 pobjeda i 1 poraza!
 
 X X o
-o X .
+o X o
 X . o
